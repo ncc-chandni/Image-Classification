@@ -1,6 +1,6 @@
 # Stop Sign Classification Using ResNet18
 
-![Stop Sign]![19aa347d-d2f6-4ccd-8844-470a5d3195d0](https://github.com/user-attachments/assets/03f9ef07-59b9-4d83-b632-78217d60a29d)
+![19aa347d-d2f6-4ccd-8844-470a5d3195d0](https://github.com/user-attachments/assets/03f9ef07-59b9-4d83-b632-78217d60a29d)
   
 
 ## Project Overview
