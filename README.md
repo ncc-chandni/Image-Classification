@@ -11,13 +11,8 @@ This project aims to classify stop signs and non-stop signs using a deep learnin
 
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Model Training](#model-training)
 - [Web Application](#web-application)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Technologies Used
 
